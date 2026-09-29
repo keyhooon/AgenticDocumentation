@@ -1,0 +1,13 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fixture", "Fixture.csproj", "{79C78D3D-479B-40C7-9C43-BF548C97E836}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {79C78D3D-479B-40C7-9C43-BF548C97E836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {79C78D3D-479B-40C7-9C43-BF548C97E836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+    EndGlobalSection
+EndGlobal

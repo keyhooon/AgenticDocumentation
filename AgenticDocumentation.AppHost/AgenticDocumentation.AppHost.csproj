@@ -16,6 +16,7 @@
     <ProjectReference Include="..\SemanticRepo.Agent.Architect\SemanticRepo.Agent.Architect.csproj" />
     <ProjectReference Include="..\SemanticRepo.Agent.Critic\SemanticRepo.Agent.Critic.csproj" />
     <ProjectReference Include="..\SemanticRepo.Agent.Roslyn\SemanticRepo.Agent.Roslyn.csproj" />
+    <ProjectReference Include="..\SemanticRepo.Agent.Indexer\SemanticRepo.Agent.Indexer.csproj" />
     <ProjectReference Include="..\SemanticRepo.Agent.Summarizer\SemanticRepo.Agent.Summarizer.csproj" />
   </ItemGroup>
 
